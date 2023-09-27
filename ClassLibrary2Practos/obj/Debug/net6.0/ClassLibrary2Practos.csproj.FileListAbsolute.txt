@@ -1,0 +1,11 @@
+D:\User\UserProjects\CSharpProjects\ClassLibrary2Practos\ClassLibrary2Practos\bin\Debug\net6.0\ClassLibrary2Practos.deps.json
+D:\User\UserProjects\CSharpProjects\ClassLibrary2Practos\ClassLibrary2Practos\bin\Debug\net6.0\ClassLibrary2Practos.dll
+D:\User\UserProjects\CSharpProjects\ClassLibrary2Practos\ClassLibrary2Practos\bin\Debug\net6.0\ClassLibrary2Practos.pdb
+D:\User\UserProjects\CSharpProjects\ClassLibrary2Practos\ClassLibrary2Practos\obj\Debug\net6.0\ClassLibrary2Practos.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\UserProjects\CSharpProjects\ClassLibrary2Practos\ClassLibrary2Practos\obj\Debug\net6.0\ClassLibrary2Practos.AssemblyInfoInputs.cache
+D:\User\UserProjects\CSharpProjects\ClassLibrary2Practos\ClassLibrary2Practos\obj\Debug\net6.0\ClassLibrary2Practos.AssemblyInfo.cs
+D:\User\UserProjects\CSharpProjects\ClassLibrary2Practos\ClassLibrary2Practos\obj\Debug\net6.0\ClassLibrary2Practos.csproj.CoreCompileInputs.cache
+D:\User\UserProjects\CSharpProjects\ClassLibrary2Practos\ClassLibrary2Practos\obj\Debug\net6.0\ClassLibrary2Practos.dll
+D:\User\UserProjects\CSharpProjects\ClassLibrary2Practos\ClassLibrary2Practos\obj\Debug\net6.0\refint\ClassLibrary2Practos.dll
+D:\User\UserProjects\CSharpProjects\ClassLibrary2Practos\ClassLibrary2Practos\obj\Debug\net6.0\ClassLibrary2Practos.pdb
+D:\User\UserProjects\CSharpProjects\ClassLibrary2Practos\ClassLibrary2Practos\obj\Debug\net6.0\ref\ClassLibrary2Practos.dll
